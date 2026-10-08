@@ -1,6 +1,6 @@
 # NICHE DEPARFUM website concepts
 
-Two responsive website concepts for NICHE DEPARFUM, published as a private-to-the-business review draft on GitHub Pages.
+Two responsive website concepts for NICHE DEPARFUM, published as a public, non-indexed concept review draft on GitHub Pages.
 
 - `/` — black studio campaign and bespoke fragrance-selection concept.
 - `/editorial.html` — the earlier warm editorial concept retained for client review.
